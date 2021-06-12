@@ -6,7 +6,7 @@
    - Install Pycharm or any other IDE of your choice.
   - Use WAMP or XAMPP or any server of your choice.
   - First create the MySql database on WAMP server using the sql file in the repo.
-  - And then build and run the project from the IDE by running the main script file first
+  - And then build and run the project from the IDE by running the main script file first.
   
 ### Login Information
   
