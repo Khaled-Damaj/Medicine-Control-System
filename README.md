@@ -8,7 +8,8 @@
   - First create the MySql database on WAMP server using the sql file in the repo
   -And then build and run the project from the IDE by running the main script file first.
   
-  ###Login Information
+### Login Information
+  
       Administrator
       username :kdamaj
       password: khaled
