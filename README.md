@@ -9,7 +9,6 @@
   -And then build and run the project from the IDE by running the main script file first.
   
   ###Login Information
-     
       Administrator
       username :kdamaj
       password: khaled
