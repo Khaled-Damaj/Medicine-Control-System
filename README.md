@@ -45,4 +45,3 @@ The aim of this project is to develop a software for the effective management of
 •	Establish an interconnection between the database of the pharmacy with the government.
 
 
-# 1.	Project Design
