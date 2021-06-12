@@ -1,0 +1,19 @@
+
+			SE Pharmacy
+
+Bill No: 4
+Patient Name: Khaled Ahmad Damaj
+Date: 11,June,2021
+Time: 22:47:22  PM
+
+==================================================
+Item		QTY		Price		Amount
+==================================================
+Brufen		2		225		450
+Panadol		4		7		28
+==================================================
+
+Total:  478
+
+		  You have been served by:
+			Khaled Damaj
