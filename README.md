@@ -2,7 +2,7 @@
 
 ## How to run the project:
   - Clone this repo using
-      - git clone https://github.com/syedibrahim/Pharmacy-Management-System.git
+      - git clone https://github.com/Khaled-Damaj/Medicine-Control-System.git
    - Install Pycharm or any other IDE of your choice.
   - Use WAMP or XAMPP or any server of your choice.
   - First create the MySql database on WAMP server using the sql file in the repo
