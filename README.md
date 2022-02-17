@@ -32,6 +32,7 @@ The aim of this project is to develop a software for the effective management of
 
 •	Print bills and receipts.
 
+
 •	Print bills and receipts.
 
 •	Holding the database up to date by encouraging administration to update the medications in storage.
@@ -44,4 +45,11 @@ The aim of this project is to develop a software for the effective management of
 
 •	Establish an interconnection between the database of the pharmacy with the government.
 
-
+![1](https://user-images.githubusercontent.com/84275119/154562586-5d287975-1dd2-4d80-b154-a3e7c55c32b2.PNG)
+![2](https://user-images.githubusercontent.com/84275119/154562659-56afaf8b-e3b6-4324-aa8f-4c15e5d6a66d.PNG)
+![3](https://user-images.githubusercontent.com/84275119/154562695-cc344056-1cfe-415a-88a4-e0db6b0ac76d.PNG)
+![4](https://user-images.githubusercontent.com/84275119/154562732-942c6aae-62f2-45c0-a7a1-7b6b80691380.PNG)
+![5](https://user-images.githubusercontent.com/84275119/154562777-4799c133-ddc0-464a-b659-1aad2413d512.PNG)
+![6](https://user-images.githubusercontent.com/84275119/154562847-2049abc6-4caa-4ada-9eac-9c07309c8a12.PNG)
+![7](https://user-images.githubusercontent.com/84275119/154562858-5a33fcf5-6066-4a84-add2-21bf5a7b7f29.PNG)
+![8](https://user-images.githubusercontent.com/84275119/154562813-05c54520-f290-484b-850f-c14bee403e53.PNG)
